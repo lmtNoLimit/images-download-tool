@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "images-downloader": "^1.0.3"
+    "image-downloader": "^3.4.2",
+    "puppeteer": "^1.12.2"
   }
 }
